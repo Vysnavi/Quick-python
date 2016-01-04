@@ -1,5 +1,5 @@
 #Python34/Simple Addtion Program
-A=10
-B=20
+A=int(input("Enter Value for A: "))
+B=int(input("Enter Value for B: "))
 C=A+B
 print (C)
